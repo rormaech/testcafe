@@ -1,0 +1,10 @@
+{
+  "name": "testcafe-getting-started-test",
+  "version": "0.1.0",
+  "description": "First test",
+  "author": "Rafael Ormaechea",
+  "license": "MIT",
+  "dependencies": {
+    "xpath-to-css":"1.0.2"
+  }
+}
